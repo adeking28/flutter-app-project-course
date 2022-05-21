@@ -8,7 +8,7 @@ void main() {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.cyan.shade800,
+          backgroundColor: Colors.black12,
           title: Center(
             child: Text('Welcome to flutter'),
           ),
